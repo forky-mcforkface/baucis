@@ -8,9 +8,9 @@ Baucis is used in production by startups, departments, and Fortune 500 companies
 
 Baucis is easy for beginners, easy to scale, yet flexible enough in the long term to be extended to solve complex use cases.
 
-### Who's using Baucis?
-
-[![Hivepod.io](http://github.com/wprl/baucis/raw/master/hivepod-io-logo.png "Hivepod.io")](https://hivepod.io) [![Kun.io App Studio LLC](http://github.com/wprl/baucis/raw/master/kunio.png "Kun.io App Studio LLC")](http://kun.io) [![Pixel Press](http://github.com/wprl/baucis/raw/master/pixel-press.jpg "Pixel Press")](http://www.projectpixelpress.com)
+[![Hivepod.io](https://github.com/wprl/baucis/raw/master/hivepod-io-logo.png "Hivepod.io")]() 
+[![Kun.io App Studio LLC](https://github.com/wprl/baucis/raw/master/kunio.png "Kun.io App Studio LLC")]() 
+[![Pixel Press](https://github.com/wprl/baucis/raw/master/pixel-press.jpg "Pixel Press")](http://www.projectpixelpress.com)
 
 If you like baucis please consider adding bounties to issues in the [issue tracker](https://github.com/wprl/baucis/issues) or contributing via [GitTip](https://www.gittip.com/wprl/).
 
